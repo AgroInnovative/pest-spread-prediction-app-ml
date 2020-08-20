@@ -5,9 +5,14 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+autopep8 = "*"
 
 [packages]
 django = "*"
+pandas = "*"
+sklearn = "*"
+joblib = "*"
+pyrebase = "*"
 
 [requires]
 python_version = "3.6"
